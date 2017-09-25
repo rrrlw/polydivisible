@@ -1,0 +1,9 @@
+# previously calculated data
+*.txt
+
+# compile files and shell scripts
+*.sh
+*.class
+
+# mac junk files
+.DS_*
